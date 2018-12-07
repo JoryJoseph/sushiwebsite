@@ -1,3 +1,4 @@
+/* background image */
 body {
     
     background-image: url("nigri.jpg");
@@ -6,6 +7,8 @@ body {
     
     
 }
+
+/* grid rows */
 
 #flex{
     border: 1px solid #EEA107;
@@ -27,4 +30,17 @@ body {
     background-color: green;
     opacity: 0.7;
      border-radius: 12px 12px 12px 12px
+}
+
+h1{
+    
+   color: white;
+    
+}  
+
+
+
+#sushi {
+    float: right;
+    
 }
