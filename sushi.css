@@ -1,0 +1,30 @@
+body {
+    
+    background-image: url("nigri.jpg");
+    background-size: cover;
+   background-repeat: no-repeat;
+    
+    
+}
+
+#flex{
+    border: 1px solid #EEA107;
+    background-color: #EEA107;
+    opacity: 0.7;
+    border-radius: 12px 12px 12px 12px
+    
+}
+
+#stretch {
+    border: 1px solid #C91D32;
+    background-color: #C91D32;
+    opacity: 0.7;
+     border-radius: 12px 12px 12px 12px
+}
+
+#sling {
+    border: 1px solid green;
+    background-color: green;
+    opacity: 0.7;
+     border-radius: 12px 12px 12px 12px
+}
