@@ -1,0 +1,208 @@
+@media all (max-width: 480px){
+        body {
+    width: 75%;
+    height: 75%;
+    margin: 15px;
+    
+    
+    
+}
+
+/* grid rows */
+
+#flex{
+   width: 75%;
+    height: 75%;
+    
+    
+}
+
+#stretch {
+  width: 75%;
+    height: 75%;
+    }
+
+#sling {
+  width: 75%;
+    height: 75%;
+    
+     
+}
+
+p{
+    width: 75%;
+    height: 75%;
+    
+}  
+
+
+
+#sushi {
+    float: right;
+    width: 75%;
+    height: 75%;
+    
+   
+}
+    
+}
+    
+}
+
+/* for devices 576px and under */
+@media all (max-width: 576px){
+        body {
+    width: 75%;
+    height: 75%;
+    
+    
+    
+}
+
+/* grid rows */
+
+#flex{
+   width: 75%;
+    height: 75%;
+    
+    
+}
+
+#stretch {
+  width: 75%;
+    height: 75%;
+    }
+
+#sling {
+  width: 75%;
+    height: 75%;
+    
+     
+}
+
+p{
+    width: 75%;
+    height: 75%;
+    
+}  
+
+
+
+#sushi {
+    float: right;
+    width: 75%;
+    height: 75%;
+    
+   
+}
+    
+}
+    
+}
+
+
+/* for devices 766px and under */
+@media all (max-width: 768px){
+        body {
+    width: 75%;
+    height: 75%;
+    
+    
+    
+}
+
+/* grid rows */
+
+#flex{
+   width: 75%;
+    height: 75%;
+    
+    
+}
+
+#stretch {
+  width: 75%;
+    height: 75%;
+    }
+
+#sling {
+  width: 75%;
+    height: 75%;
+    
+     
+}
+
+p{
+    width: 75%;
+    height: 75%;
+    
+}  
+
+
+
+#sushi {
+    float: right;
+    width: 75%;
+    height: 75%;
+    
+   
+}
+    
+}
+    
+}
+
+/* for devices 992px and under */
+@media all(max-width: 992px){
+    body {
+    width: 75%;
+    height: 75%;
+    margin:10px;
+    
+    
+}
+
+/* grid rows */
+
+#flex{
+   width: 75%;
+    height: 75%;
+    
+    
+}
+
+#stretch {
+  width: 75%;
+    height: 75%;
+    }
+
+#sling {
+  width: 75%;
+    height: 75%;
+    
+     
+}
+
+p{
+    width: 75%;
+    height: 75%;
+    
+}  
+
+
+
+#sushi {
+    float: right;
+    width: 75%;
+    height: 75%;
+    
+   
+}
+    
+}
+
+/* for devices 1200px and under */
+@media all (max-width: 1200px){
+    
+    
+}
